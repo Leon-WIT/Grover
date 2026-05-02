@@ -10,4 +10,9 @@ You may click the links below to load and run each tutorial directly on Google C
 3. Circuit with <B>n</B> qbits and <i>qiskit</i> objects.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Leon-WIT/Grover/blob/main/GroverTutorial3_GroverOperator.ipynb)
  
 4. Solving a Problem.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Leon-WIT/Grover/blob/main/GroverTutorial4_SAT.ipynb)
+
+ ### Hash functions
+ 5. Quantum Collision Finder.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Leon-WIT/Grover/blob/main/A01_GROVER_1st_preimageAttack.ipynb)
  
+ 6. Quantum Second Preimage Finder.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Leon-WIT/Grover/blob/main/A02_GROVER_2nd_preimageAttack.ipynb)
+
